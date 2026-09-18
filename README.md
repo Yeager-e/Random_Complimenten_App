@@ -1,4 +1,4 @@
-Omschrijving van de repository (project);
+* Omschrijving van de repository (project);
 *App die jou complimenteert*
 Oplijsting van aanwezige bestanden en folders;
 *LICENSE*
