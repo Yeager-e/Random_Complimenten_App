@@ -1,6 +1,6 @@
 * Omschrijving van de repository (project);
 *App die jou complimenteert*
-Oplijsting van aanwezige bestanden en folders;
+* Oplijsting van aanwezige bestanden en folders;
 *LICENSE*
 Configuratie en installatie instructies;
 *Pull/Clone*
