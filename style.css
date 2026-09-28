@@ -1,0 +1,49 @@
+body{
+    display:flex;
+    justify-content: center;
+    background-color: pink;
+    text-align: center;
+}
+
+.container{
+    height: 550px;
+    background-color: yellowgreen;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 1000px;
+    text-align: center;
+    border-radius: 20px;
+    border: none;
+}
+.CARD{
+    height: 400px;
+    width: 800px;
+    margin: 20px auto;
+    border-radius: 20px;
+    padding-top: 10px;
+    background-color: yellowgreen;
+    transition: background-color 20s;
+}
+div.CARD:hover{
+    background-color: rgb(105, 233, 255);
+    transition: background-color 20s;
+}
+#compliment{
+    color:rgb(246, 47, 253);
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+#Gen-button{
+    width: 250px;
+    padding: 10px;
+    margin: 40px auto;
+    display: block;
+    border-radius: 10px;
+    border: none;
+}
+p{
+    font-size: 30px;
+    color: yellowgreen;
+    font-family: 'Times New Roman', Times, serif;
+}
